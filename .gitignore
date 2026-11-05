@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# file-organizer: 개인 경로·파일명이 담긴 파일
+rules.yaml
+logs/
+
+# Claude Code 개인 설정
+.claude/settings.local.json
